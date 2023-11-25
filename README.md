@@ -12,8 +12,7 @@ Minha jornada de aprendizado começou com o programa Floripa +Tech, promovido pe
 Além de minhas habilidades técnicas, possuo excelente capacidade de comunicação, trabalho em equipe e resolução de problemas. Sou um profissional dedicado, comprometido em entregar resultados de qualidade e sempre em busca de aprimoramento.
 Tenho certeza de que meu entusiasmo, determinação e sede por aprendizado serão um valioso acréscimo à cultura e ao sucesso das empresas.
 
-![Linkedin](https://github.com/nemseibr/Otavio-Nascimento/assets/116135293/80db16d1-c498-4bcf-b020-a698f811de55)
-
+Visite também o meu Linkedin: ![Linkedin](https://github.com/nemseibr/Otavio-Nascimento/assets/116135293/f5233e70-f5be-4530-b89e-f539148d457c)
 
 Atenciosamente,
 
