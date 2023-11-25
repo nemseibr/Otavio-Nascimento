@@ -13,7 +13,8 @@ Além de minhas habilidades técnicas, possuo excelente capacidade de comunicaç
 
 ![Linkedin](https://github.com/nemseibr/Otavio-Nascimento/assets/116135293/50cd2b29-d130-49bc-ae22-99676ac19d12)
 
-[![Linkedin](assets/116135293/50cd2b29-d130-49bc-ae22-99676ac19d12.png)](https://www.linkedin.com/in/ot%C3%A1vio-nascimento-8a77b542/)
+[![Linkedin](https://github.com/nemseibr/Otavio-Nascimento/blob/main/assets/116135293/50cd2b29-d130-49bc-ae22-99676ac19d12.png)](https://www.linkedin.com/in/ot%C3%A1vio-nascimento-8a77b542/)
+
 
 
 Atenciosamente,
