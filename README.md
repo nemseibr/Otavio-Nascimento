@@ -15,4 +15,5 @@ Além de minhas habilidades técnicas, possuo excelente capacidade de comunicaç
 
 
 Atenciosamente,
+
 ![Logo Transparente Peq](https://github.com/nemseibr/Otavio-Nascimento/assets/116135293/d8371df1-c02c-4de0-ae60-18d3e1612c81)
