@@ -11,7 +11,10 @@ Meu objetivo é me tornar um desenvolvedor fullstack completo, capaz de lidar co
 Minha jornada de aprendizado começou com o programa Floripa +Tech, promovido pela ACATE/PMF/SESI-SENAI. Essa experiência foi fundamental para despertar meu interesse pela área de desenvolvimento e me proporcionou uma base sólida de conhecimentos técnicos.
 Além de minhas habilidades técnicas, possuo excelente capacidade de comunicação, trabalho em equipe e resolução de problemas. Sou um profissional dedicado, comprometido em entregar resultados de qualidade e sempre em busca de aprimoramento. Tenho certeza de que meu entusiasmo, determinação e sede por aprendizado serão um valioso acréscimo à cultura e ao sucesso das empresas. Visite também:
 
-![Linkedin](https://www.linkedin.com/in/ot%C3%A1vio-nascimento-8a77b542/)
+![Linkedin](https://github.com/nemseibr/Otavio-Nascimento/assets/116135293/50cd2b29-d130-49bc-ae22-99676ac19d12)
+
+[![Linkedin](assets/116135293/50cd2b29-d130-49bc-ae22-99676ac19d12.png)](https://www.linkedin.com/in/ot%C3%A1vio-nascimento-8a77b542/)
+
 
 Atenciosamente,
 
