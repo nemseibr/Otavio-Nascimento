@@ -13,117 +13,141 @@
 ## 🏆 **STATUS DO JOGADOR**
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│   NOME: Otávio Nascimento                                      │
-│   CLASSE: Desenvolvedor de Software em Formação                │
-│   ESPECIALIZAÇÃO: Full Stack + IA para Análise Preditiva       │
-│   BACKGROUND: Negócios • Estratégia • Tecnologia               │
-│   STATUS: 🟢 LEVELING UP                                       │
-│                                                                 │
-│   CURRENT QUEST:                                               │
-│   └── Evoluir em Desenvolvimento Full Stack e IA              │
-│                                                                 │
-│   OBJETIVO: Unir tecnologia, dados e visão de negócio          │
-│              para criar soluções que resolvam problemas reais. │
-└─────────────────────────────────────────────────────────────────┘
-```
 
-Profissional com formação em **Administração de Empresas pela PUC-SP** e **MBA em Gestão e Inteligência no Ambiente 4.0**, atualmente em transição e formação na área de tecnologia.
+    NOME: Otávio Nascimento                                       
+    CLASSE: Desenvolvedor de Software em Formação                 
+    ESPECIALIZAÇÃO: Full Stack + IA para Análise Preditiva        
+    BACKGROUND: Negócios • Estratégia • Tecnologia                
+    STATUS: 🟢 LEVELING UP                                        
 
-Minha experiência profissional em **áreas comerciais, relacionamento com clientes, negociação, estratégia e desenvolvimento de negócios** complementa minha formação técnica.
+    CURRENT QUEST:                                                
+    └── Evoluir em Desenvolvimento Full Stack e IA               
+                                                                  
+OBJETIVO: Meu propósito é unir minha experiência em negócios com meu desenvolvimento em tecnologia, utilizando programação,
+dados e Inteligência Artificial para transformar problemas em soluções digitais que gerem valor.
 
-Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise de Dados e Inteligência Artificial**, buscando unir **visão de negócio + tecnologia + dados**.
+Profissional com formação em **Administração de Empresas pela PUC-SP** e **MBA em Gestão e Inteligência no Ambiente 4.0**,
+atualmente em transição e formação na área de tecnologia.
 
----
+Minha experiência profissional em **áreas comerciais, relacionamento com clientes, negociação,
+estratégia e desenvolvimento de negócios** complementa minha formação técnica.
 
-## ⚔️ **HABILIDADES & LEVEL SYSTEM**
-
-<div align="center">
-
-### 🖥️ **LINGUAGENS DE PROGRAMAÇÃO**
-
-|      Linguagem      |        Level       |
-| :-----------------: | :----------------: |
-|       **Java**      |    INTERMEDIÁRIO   |
-|    **JavaScript**   |    INTERMEDIÁRIO   |
-| **HTML / CSS / JS** |      AVANÇADO      |
-|      **Python**     | BÁSICO → EVOLUINDO |
-|     **Portugol**    |      AVANÇADO      |
+Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise de Dados e Inteligência Artificial**,
+buscando unir **visão de negócio + tecnologia + dados**.
 
 ---
 
-### 🛠️ **FRAMEWORKS & TECNOLOGIAS**
+# ⚔️ **HABILIDADES & LEVEL SYSTEM**
 
-|      Tecnologia     |        Level       |
-| :-----------------: | :----------------: |
-|      **React**      |    INTERMEDIÁRIO   |
-|   **Spring Boot**   |    INTERMEDIÁRIO   |
-|      **Vue.js**     |       BÁSICO       |
-| **Ionic / Angular** | EM DESENVOLVIMENTO |
-|   **Git / GitHub**  |    INTERMEDIÁRIO   |
-|      **Docker**     |       BÁSICO       |
-|       **AWS**       |       BÁSICO       |
-|     **Postman**     |       BÁSICO       |
-|   **Jest / JUnit**  |       BÁSICO       |
-
----
-
-### 📊 **DATA & AI**
-
-|     Tecnologia / Conceito     |       Level      |
-| :---------------------------: | :--------------: |
-|           **Pandas**          |    EM FORMAÇÃO   |
-|           **NumPy**           |    EM FORMAÇÃO   |
-|      **Análise de Dados**     |    EM FORMAÇÃO   |
-|   **Business Intelligence**   |    EM FORMAÇÃO   |
-| **IA para Análise Preditiva** | CURRENT QUEST 🤖 |
-
----
-
-### 🗄️ **DATABASES**
-
-|    Database    |     Level     |
-| :------------: | :-----------: |
-|    **MySQL**   | INTERMEDIÁRIO |
-| **PostgreSQL** | INTERMEDIÁRIO |
-
-</div>
-
----
-
-## 🏅 **CONQUISTAS DESBLOQUEADAS**
-
-<div align="center">
-
-| 🎓 **CONQUISTA**                                        | 📅 **ANO** |                                    🏆 **STATUS**                                    |
-| :------------------------------------------------------ | :--------: | :---------------------------------------------------------------------------------: |
-| 🎮 **Programador de Sistemas — SENAC**                  |    2025    |  ![Status](https://img.shields.io/badge/Status-CONCLUÍDO-success?style=flat-square) |
-| 🌐 **Analista de Desenvolvimento Web — SENAI**          |    2023    |  ![Status](https://img.shields.io/badge/Status-CONCLUÍDO-success?style=flat-square) |
-| 🤖 **IA para Análise Preditiva**                        |    2026    | ![Status](https://img.shields.io/badge/Status-EM_FORMACAO-yellow?style=flat-square) |
-| 🚀 **MBA Gestão e Inteligência no Ambiente 4.0 — IPOG** |    2021    |  ![Status](https://img.shields.io/badge/Status-CONCLUÍDO-success?style=flat-square) |
-| 💼 **Administração de Empresas — PUC-SP**               |    2014    |  ![Status](https://img.shields.io/badge/Status-CONCLUÍDO-success?style=flat-square) |
-
-</div>
-
-### 🥈 **SPECIAL ACHIEVEMENTS**
+## 🖥️ LINGUAGENS DE PROGRAMAÇÃO
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  🥈 2º LUGAR — JOVEM PROGRAMADOR SENAC 2025                  ║
-║                                                              ║
-║  🥈 2º LUGAR — STARTUP WEEKEND HEALTH 2025                   ║
-║                                                              ║
-║  💡 PROJETOS DESENVOLVIDOS EM EQUIPE                         ║
-║                                                              ║
-║  🚀 TRANSIÇÃO DE CARREIRA: BUSINESS → TECHNOLOGY             ║
-╚══════════════════════════════════════════════════════════════╝
+ ══════════════════════════════════════════════════════════════ 
+                     LANGUAGE SKILL TREE                       
+ ══════════════════════════════════════════════════════════════ 
+   ☕ Java              ████████████████░░░░  INTERMEDIÁRIO    
+   🟨 JavaScript        ████████████████░░░░  INTERMEDIÁRIO    
+   🌐 HTML/CSS/JS      ████████████████████  AVANÇADO        
+   🐍 Python            ██████████░░░░░░░░░░  BÁSICO          
+   📚 Portugol          ████████████████████  AVANÇADO        
+ ══════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## 💼 **HISTÓRICO DE MISSÕES**
+## 🛠️ FRAMEWORKS & TECNOLOGIAS
 
-### 📊 **Data & Analytics Specialist** | **Incodata** *(2021–2022)*
+```text
+ ══════════════════════════════════════════════════════════════
+                    TECHNOLOGY SKILL TREE                     
+ ══════════════════════════════════════════════════════════════
+   ⚛️ React             ████████████████░░░░  INTERMEDIÁRIO    
+   🍃 Spring Boot       ████████████████░░░░  INTERMEDIÁRIO    
+   🟢 Vue.js            ██████████░░░░░░░░░░  BÁSICO          
+   📱 Ionic / Angular   ████████████░░░░░░░  EM DESENVOLV.    
+   🔀 Git / GitHub      ████████████████░░░░  INTERMEDIÁRIO    
+   🐳 Docker            ██████████░░░░░░░░░░  BÁSICO          
+   ☁️ AWS               ██████████░░░░░░░░░░  BÁSICO          
+   📮 Postman           ██████████░░░░░░░░░░  BÁSICO          
+   🧪 Jest / JUnit      ██████████░░░░░░░░░░  BÁSICO                                                                         
+ ══════════════════════════════════════════════════════════════ 
+```
+
+---
+
+## 📊 DATA & AI
+
+```text
+ ══════════════════════════════════════════════════════════════ 
+                      DATA / AI QUEST                          
+ ══════════════════════════════════════════════════════════════ 
+   🐼 Pandas                ██████████░░░░░░░░  EM FORMAÇÃO   
+   🔢 NumPy                 ██████████░░░░░░░░  EM FORMAÇÃO   
+   📊 Análise de Dados      ██████████░░░░░░░░  EM FORMAÇÃO   
+   📈 Business Intelligence ██████████░░░░░░░░  EM FORMAÇÃO   
+   🤖 IA Preditiva          █████████████░░░░░  CURRENT QUEST 
+ ══════════════════════════════════════════════════════════════ 
+```
+
+---
+
+## 🗄️ DATABASES
+
+```text
+ ══════════════════════════════════════════════════════════════ 
+                       DATABASE SKILLS                         
+ ══════════════════════════════════════════════════════════════ 
+   🐬 MySQL             ████████████████░░░░  INTERMEDIÁRIO    
+   🐘 PostgreSQL        ████████████████░░░░  INTERMEDIÁRIO    
+ ══════════════════════════════════════════════════════════════ 
+```
+
+---
+
+# 🏅 **CONQUISTAS DESBLOQUEADAS**
+
+```text
+ ══════════════════════════════════════════════════════════════
+                     ACHIEVEMENT LOG                           
+ ══════════════════════════════════════════════════════════════                                                                
+   🎮 2025  │ Programador de Sistemas — SENAC                  
+            │ 🟢 CONCLUÍDO                                     
+                                                                
+   🌐 2023  │ Analista de Desenvolvimento Web — SENAI         
+            │ 🟢 CONCLUÍDO                                     
+                                                                
+   🤖 2026  │ IA para Análise Preditiva                        
+            │ 🟡 EM FORMAÇÃO                                   
+                                                               
+   🚀 2021  │ MBA Gestão e Inteligência no Ambiente 4.0       
+            │ 🟢 CONCLUÍDO                                     
+                                                                
+   💼 2014  │ Administração de Empresas — PUC-SP               
+            │ 🟢 CONCLUÍDO                                     
+ ══════════════════════════════════════════════════════════════ 
+```
+
+## 🥈 **SPECIAL ACHIEVEMENTS**
+
+```text
+ ══════════════════════════════════════════════════════════════ 
+                                                                
+   🥈 2º LUGAR — JOVEM PROGRAMADOR SENAC 2025                  
+                                                                
+   🥈 2º LUGAR — STARTUP WEEKEND HEALTH 2025                   
+                                                                
+   💡 PROJETOS DESENVOLVIDOS EM EQUIPE                         
+                                                                
+   🚀 TRANSIÇÃO DE CARREIRA: BUSINESS → TECHNOLOGY             
+                                                                
+ ══════════════════════════════════════════════════════════════ 
+```
+
+---
+
+# 💼 **HISTÓRICO DE MISSÕES**
+
+## 📊 **Data & Analytics Specialist** | **Incodata** *(2021–2022)*
 
 <details>
 <summary>🎮 <strong>Clique para ver as conquistas</strong></summary>
@@ -138,6 +162,7 @@ Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise 
 └── ✅ Otimização de processos comerciais
 
 🏆 XP GANHO:
+
    Data Analytics • CRM • Estratégia • Automação
 ```
 
@@ -145,7 +170,7 @@ Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise 
 
 ---
 
-### 🏗️ **Analista Comercial** | **Santos Madeiras** *(2021)*
+## 🏗️ **Analista Comercial** | **Santos Madeiras** *(2021)*
 
 <details>
 <summary>🎮 <strong>Clique para ver as conquistas</strong></summary>
@@ -159,6 +184,7 @@ Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise 
 └── ✅ Otimização do processo comercial
 
 🏆 XP GANHO:
+
    Desenvolvimento Web • Automação • Estratégia Digital
 ```
 
@@ -166,18 +192,19 @@ Atualmente direciono minha carreira para **Desenvolvimento Full Stack, Análise 
 
 ---
 
-## 🚀 **PROJECT QUEST LOG**
+# 🚀 **PROJECT QUEST LOG**
 
-### 📊 **SalesInsight**
+## 📊 **SalesInsight**
 
 > Projeto de análise de dados de vendas desenvolvido durante a formação SCTEC.
 
 ```text
 🧪 STACK:
+
 Python • Pandas • Data Analysis • ETL
 ```
 
-### MISSÕES
+### 🎯 MISSÕES
 
 ```text
 ├── ✅ Pipeline de dados
@@ -194,12 +221,13 @@ Python • Pandas • Data Analysis • ETL
 
 ---
 
-### ❤️ **Cuidar Mais**
+## ❤️ **Cuidar Mais**
 
 > Plataforma desenvolvida com foco em cuidados paliativos e acolhimento.
 
 ```text
 🧪 STACK:
+
 Web Development • Front-End • UI/UX
 ```
 
@@ -209,12 +237,13 @@ Web Development • Front-End • UI/UX
 
 ---
 
-### 🏥 **Historimed**
+## 🏥 **Historimed**
 
 > Projeto voltado à organização e gerenciamento de informações relacionadas ao histórico médico.
 
 ```text
 🧪 STACK:
+
 Web Development • Front-End • Database
 ```
 
@@ -223,61 +252,35 @@ Web Development • Front-End • Database
 ---
 
 
-🎯 **CURRENT SIDE QUEST**
-
-```text
-├── 🔨 Motor de cálculo de materiais
-├── 🏠 Dimensionamento de ambientes
-├── 🚪 Portas e janelas
-├── 📐 Dimensões do terreno
-└── 📋 Geração de estimativas
-```
-
----
-
-## 🌟 **SPECIAL ABILITIES**
+# 🌟 **SPECIAL ABILITIES**
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🧠 PENSAMENTO ESTRATÉGICO & ANALÍTICO                     ║
-║                                                              ║
-║   💼 EXPERIÊNCIA EM NEGÓCIOS E ÁREA COMERCIAL               ║
-║                                                              ║
-║   💻 DESENVOLVIMENTO DE SOFTWARE                            ║
-║                                                              ║
-║   🤖 INTERESSE EM IA E ANÁLISE PREDITIVA                    ║
-║                                                              ║
-║   📊 VISÃO ORIENTADA A DADOS                                ║
-║                                                              ║
-║   🔄 APRENDIZADO CONTÍNUO                                   ║
-║                                                              ║
-║   🤝 COMUNICAÇÃO & RELACIONAMENTO                           ║
-║                                                              ║
-║   🌐 INTEGRAÇÃO ENTRE TECNOLOGIA E NEGÓCIOS                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ ══════════════════════════════════════════════════════════════ 
+    🧠 PENSAMENTO ESTRATÉGICO & ANALÍTICO                      
+                                                                
+    💼 EXPERIÊNCIA EM NEGÓCIOS E ÁREA COMERCIAL                
+                                                                
+    💻 DESENVOLVIMENTO DE SOFTWARE                             
+                                                                
+    🤖 INTERESSE EM IA E ANÁLISE PREDITIVA                     
+                                                                
+    📊 VISÃO ORIENTADA A DADOS                                 
+                                                                
+    🔄 APRENDIZADO CONTÍNUO                                    
+                                                                
+    🤝 COMUNICAÇÃO & RELACIONAMENTO                            
+                                                                
+    🌐 INTEGRAÇÃO ENTRE TECNOLOGIA E NEGÓCIOS                  
+ ══════════════════════════════════════════════════════════════ 
 ```
 
 </div>
 
 ---
 
-## 📈 **ESTATÍSTICAS DO GITHUB**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemseibr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemseibr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&custom_title=Linguagens%20Mais%20Utilizadas"/>
-
-</div>
-
----
-
-## 🎮 **TECH STACK ATUAL**
+# 🎮 **TECH STACK ATUAL**
 
 <div align="center">
 
@@ -291,7 +294,7 @@ Web Development • Front-End • Database
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=html5\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge\&logo=ionic\&logoColor=white)
 
@@ -317,33 +320,33 @@ Web Development • Front-End • Database
 
 ---
 
-## 🎯 **CURRENT QUESTS — 2026**
+# 🎯 **CURRENT QUESTS — 2026**
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                       ROADMAP 2026                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🤖 IA para Análise Preditiva        ███████░░░  ACTIVE     ║
-║                                                              ║
-║  🐍 Python + Data Analysis           ███████░░░  ACTIVE     ║
-║                                                              ║
-║  ☕ Java + Spring Boot               ████████░░  ACTIVE     ║
-║                                                              ║
-║  ⚛️ React + Full Stack              ████████░░  ACTIVE      ║
-║                                                              ║
-║  📊 Business Intelligence            ██████░░░░  ACTIVE     ║
-║                                                              ║
-║  🐳 Docker / DevOps                 █████░░░░░  LEVEL UP    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ ══════════════════════════════════════════════════════════════ 
+                        ROADMAP 2026                           
+ ══════════════════════════════════════════════════════════════ 
+                                                                
+   🤖 IA para Análise Preditiva        ███████░░░  ACTIVE      
+                                                                
+   🐍 Python + Data Analysis           ███████░░░  ACTIVE      
+                                                                
+   ☕ Java + Spring Boot               ████████░░  ACTIVE      
+                                                                
+   ⚛️ React + Full Stack               ████████░░  ACTIVE      
+                                                                
+   📊 Business Intelligence            ██████░░░░  ACTIVE      
+                                                                
+   🐳 Docker / DevOps                  █████░░░░░  LEVEL UP    
+                                                                
+ ══════════════════════════════════════════════════════════════ 
 ```
 
 </div>
 
-### 🎁 BONUS QUESTS
+### 🎁 **BONUS QUESTS**
 
 ```text
 🎯 Desenvolver projetos pessoais completos
@@ -356,7 +359,7 @@ Web Development • Front-End • Database
 
 ---
 
-## 🤝 **MULTIPLAYER MODE — CONTATO**
+# 🤝 **MULTIPLAYER MODE — CONTATO**
 
 <div align="center">
 
@@ -377,15 +380,13 @@ Web Development • Front-End • Database
 ### 🎮 **"CODE IS POETRY, DEBUG IS ART"** 🎮
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  💡 Transformando experiência em conhecimento.              │
-│  💻 Transformando conhecimento em código.                   │
-│  🤖 Transformando código em soluções.                      │
-│                                                             │
-│                   🚀 LEVELING UP...                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+ ───────────────────────────────────────────────────────────── 
+   💡 Transformando experiência em conhecimento.               
+   💻 Transformando conhecimento em código.                    
+   🤖 Transformando código em soluções.                       
+                                                               
+                    🚀 LEVELING UP...                          
+ ───────────────────────────────────────────────────────────── 
 ```
 
 ### ⭐ *Every project is a new quest.*
@@ -395,3 +396,4 @@ Web Development • Front-End • Database
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
